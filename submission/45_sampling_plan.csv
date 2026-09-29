@@ -1,9 +1,9 @@
 camera_id,slice_type,frames,risk,rationale
-front,normal,,TODO,TODO
-front,hard,,TODO,TODO
-rear,normal,,TODO,TODO
-rear,hard,,TODO,TODO
-left,normal,,TODO,TODO
-left,hard,,TODO,TODO
-right,normal,,TODO,TODO
-right,hard,,TODO,TODO
+front,normal,35,medium,"Cảnh đường thẳng, vật lớn và ít che khuất; dùng làm nền phủ đều."
+front,hard,15,high,"Seam góc trước, glare, xe/người chồng lấn và vật cắt mép fisheye."
+rear,normal,35,medium,"Giao thông phía sau với khoảng cách và kích thước vật đa dạng."
+rear,hard,15,high,"Xe tiến gần nhanh, occlusion, đèn ngược sáng và vật bị cắt ở mép ảnh."
+left,normal,35,medium,"Vật bên hông ở khoảng cách ổn định, cần kiểm box và calibration vùng gần."
+left,hard,15,high,"Góc seam trái, méo rìa, xe máy/rider dày và thay đổi góc nhìn."
+right,normal,35,medium,"Cảnh bên phải có vật tĩnh/di động hỗn hợp và độ phủ vừa phải."
+right,hard,15,high,"Seam phải, xe lớn che vật nhỏ, ánh sáng thay đổi và nguy cơ nhầm identity."

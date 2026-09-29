@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <job>
+      <id>17</id>
+      <size>1</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2026-09-29 03:15:12.323635+00:00</created>
+      <updated>2026-09-29 03:23:54.463546+00:00</updated>
+      <subset>default</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>0</stop_frame>
+      <frame_filter></frame_filter>
+      <segments>
+        <segment>
+          <id>17</id>
+          <start>0</start>
+          <stop>0</stop>
+          <url>http://localhost:8080/api/jobs/17/dataset/export/api/jobs/17</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>oribridget</username>
+        <email>vietanhpn.work@gmail.com</email>
+      </owner>
+      <assignee></assignee>
+      <labels>
+        <label>
+          <name>parking_line</name>
+          <color>#ffcc00</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>free_space</name>
+          <color>#35c98b</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+    </job>
+    <dumped>2026-09-29 03:25:56.649831+00:00</dumped>
+  </meta>
+  <image id="0" name="parking-lot-core.jpg" width="960" height="720">
+    <polyline label="parking_line" source="manual" occluded="0" points="0.00,541.34;960.00,507.55" z_order="0">
+    </polyline>
+    <polyline label="parking_line" source="manual" occluded="0" points="48.41,570.40;58.99,521.80" z_order="0">
+    </polyline>
+    <polyline label="parking_line" source="manual" occluded="0" points="246.31,562.88;170.63,519.94" z_order="0">
+    </polyline>
+    <polyline label="parking_line" source="manual" occluded="0" points="419.90,553.37;278.36,517.41" z_order="0">
+    </polyline>
+    <polyline label="parking_line" source="manual" occluded="0" points="577.05,543.85;373.77,513.78" z_order="0">
+    </polyline>
+    <polyline label="parking_line" source="manual" occluded="0" points="714.43,536.71;468.01,511.06" z_order="0">
+    </polyline>
+    <polyline label="parking_line" source="manual" occluded="0" points="831.42,529.74;552.66,507.99" z_order="0">
+    </polyline>
+    <polyline label="parking_line" source="manual" occluded="0" points="25.75,717.43;31.08,680.69" z_order="0">
+    </polyline>
+    <polyline label="parking_line" source="manual" occluded="0" points="528.93,718.95;407.21,652.55" z_order="0">
+    </polyline>
+    <polyline label="parking_line" source="manual" occluded="0" points="959.45,683.78;699.51,623.53" z_order="0">
+    </polyline>
+    <polyline label="parking_line" source="manual" occluded="0" points="959.50,602.42;922.51,596.84" z_order="0">
+    </polyline>
+    <polyline label="parking_line" source="manual" occluded="0" points="61.55,508.20;64.51,500.05" z_order="0">
+    </polyline>
+    <polyline label="parking_line" source="manual" occluded="0" points="148.48,507.46;133.66,499.56" z_order="0">
+    </polyline>
+    <polyline label="parking_line" source="manual" occluded="0" points="231.79,505.40;204.36,498.54" z_order="0">
+    </polyline>
+    <polyline label="parking_line" source="manual" occluded="0" points="310.18,503.47;268.09,497.09" z_order="0">
+    </polyline>
+    <polyline label="parking_line" source="manual" occluded="0" points="386.19,501.14;337.48,495.79" z_order="0">
+    </polyline>
+    <polyline label="parking_line" source="manual" occluded="0" points="455.47,499.43;404.62,495.30" z_order="0">
+    </polyline>
+    <polygon label="free_space" source="manual" occluded="0" points="0.00,606.16;0.46,680.22;959.67,586.57;960.00,561.71;960.00,524.01;676.04,543.17;438.07,555.10;0.00,580.19" z_order="0">
+    </polygon>
+    <polygon label="free_space" source="manual" occluded="0" points="61.70,520.90;392.70,512.10;672.82,503.36;898.68,498.22;538.14,500.28;59.87,510.91;0.17,512.05;0.00,516.54;0.40,522.00" z_order="0">
+    </polygon>
+  </image>
+</annotations>

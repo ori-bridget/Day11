@@ -1,0 +1,9 @@
+round: calib
+slice: C0
+sha256: 5577fef3379d5f0e2fcc2dff3207c568e260116a4b7f3bf23256810599279c09
+code: 5577-FEF3
+locked_at: 2026-09-29T10:55:02+07:00
+shapes: box=9, polygon=2
+prefill_kept: 0
+prefill_edited: 0
+new: 9
